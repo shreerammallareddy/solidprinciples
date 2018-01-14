@@ -1,0 +1,21 @@
+In this SOLID Principles project, we will design an "Employee Management System" based on S.O.L.I.D principles.
+
+Implementation of Employee Management System Should do the following,
+--> Hiring and Termination of Employees
+--> Print Reports relating to Employees in XML or CSV.
+*****************************************************************
+Firstly Identify Who all can be potential Employees in a hospital.
+1. Doctors
+2. Nurses
+3. Security Guards
+4. Administrative Employees
+5. Non-Administrative Employees
+6. Interns.
+7. Visiting Doctors.
+ and so on. All these are some of major employee types. We need to define an Employee Class which can
+ comprise of common attributes of all employees irrespective of their category.
+- Class Names Should be nouns based on their Intent.
+- Careful naming of variables and methods should be based on intent.
+- In this our intention is to create an Employee Class who works at a hospital.
+
+1. Single Responsibility Principle
